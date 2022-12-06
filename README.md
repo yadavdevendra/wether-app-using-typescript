@@ -1,4 +1,4 @@
-#[https://wether-app-using-typescript.vercel.app/]
+#[https://wether-app-using-typescript.vercel.app]
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
